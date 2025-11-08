@@ -47,7 +47,7 @@ This screenshot shows a **prediction result** where the app identifies the pengu
 
 ### 🖼️ 2. Prediction Example — _Chinstrap Penguin_
 
-![Penguin Prediction Example 2]dream.png()
+![Penguin Prediction Example 2](dream.png)
 
 **Description:**  
 Here, the app predicts the penguin as **Chinstrap species** based on a different combination of features.
